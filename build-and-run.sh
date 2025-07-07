@@ -1,0 +1,1 @@
+mvn clean install && java -jar target/Trabalho2DCC025-1.0.jar
